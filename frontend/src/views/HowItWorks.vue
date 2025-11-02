@@ -81,7 +81,7 @@ export default defineComponent({
     justify-content: center;
     z-index: 2;
     width: 100%;
-    padding: 20px;
+    padding: 0 150px 0 150px;
   }
 
   .content-inner {
@@ -101,7 +101,7 @@ export default defineComponent({
   }
 
   .description {
-    font-size: 24px;
+    font-size: 20px;
     line-height: 1.8;
     color: #555;
     margin: 0 0 30px 0;
