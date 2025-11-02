@@ -77,14 +77,14 @@ export default defineComponent({
     margin-top: 50px;
 
     .katch-logo {
-      width: 750px;
+      width: 600px;
       height: auto;
       display: block;
     }
   }
 
   .tagline {
-    font-size: 64px;
+    font-size: 48px;
     font-weight: 400;
     color: #5a4a5f;
     margin: 0 0 60px 0;
